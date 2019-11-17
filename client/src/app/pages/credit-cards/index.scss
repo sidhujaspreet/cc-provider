@@ -1,0 +1,40 @@
+.label {
+  font-size: 1.2rem;
+  margin: 24px 0px 8px 0px;
+}
+
+.btn-wrap {
+  margin-top: 2rem;
+}
+
+.addCard {
+  cursor: pointer;
+  font-size: 1.2rem;
+  border: 0.5px solid black;
+  background-color: lightgray;
+  height: 40px;
+  width: 180px;
+}
+
+table {
+  width: 90%;
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-weight: 200;
+}
+
+tr, td, th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 16px;
+  text-align: center;
+}
+
+th {
+  font-weight: 500;
+  background-color: lightgray;
+}
+
+.red {
+  color: red
+}

@@ -1,0 +1,21 @@
+.body {
+  max-width: 100%;
+  margin: auto;
+  font-family: sans-serif;
+  padding: 2rem;
+
+  .heading {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-size: 1.4rem;
+  }
+
+  input {
+    border: 1px solid lightgray;
+    font-weight: 200;
+    width: 260px;
+    height: 36px;
+    font-size: 1.4rem;
+    padding: 2px 8px;
+  }
+}
